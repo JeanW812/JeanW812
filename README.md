@@ -1,6 +1,6 @@
-- Hi, This is Jean Wong
+- Hi, My name is Wong Ya Jing or you can just call me Jean. XD
 - I am currently a year 1 student pursuing my studies at University Technology Malaysia, Skudai.
-- Bachelor Degree in Computer Science (Networking and Computer Security)
+- I'm having a Bachelor Degree in Computer Science (Networking and Computer Security)
 - Besides of studies, my hobbies are dancing and playing the guitar
 - Nice to meet you!
 
