@@ -1,7 +1,8 @@
-Name: Wong Ya Jing
-Nickname: Jean
-Hometown: Seremban, Negeri Sembilan
-D.O.B: 12/8/2005
+Introductory
+- Name: Wong Ya Jing
+- Nickname: Jean
+- Hometown: Seremban, Negeri Sembilan
+- D.O.B: 12/8/2005
 
 Education
 - Bachelor Degree in Computer Science(Networking and Computer Security)
