@@ -20,6 +20,10 @@ Hobby
 - Dancing
 - Gaming
 
+My Contact
+- email: wongyajing0812@gmail.com
+- Instagram: he.yj.ean
+- LinkedIn: http://linkedin.com/in/ya-jing-wong-567123346
 <!---
 JeanW812/JeanW812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
