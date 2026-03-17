@@ -29,6 +29,7 @@ My Contact
 JeanW812/JeanW812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+My Badges
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/7b8fd827-bbad-4c74-9cd9-aeaa1afe37e2" title="CCNA: Introduction to Networks"><img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="80" height="80"></a>
 <!--END_SECTION:badges-->
