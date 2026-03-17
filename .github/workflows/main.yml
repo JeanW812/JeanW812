@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: Ya Jing Wong
+          CREDLY_USER: ya-jing-wong
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
