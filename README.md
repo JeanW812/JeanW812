@@ -24,7 +24,7 @@
 ---
 
 ## 🧰 Skills & Tools
-**Languages:** C++ Java JavaScript HTML
+**Languages:** C++ Java JavaScript HTML mySQL
 **Tools:** AutoCAD, Cisco Packet Tracer, Wireshark
 
 ---
