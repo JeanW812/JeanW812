@@ -18,7 +18,7 @@
 
 ## 🔐 Focus Areas
 - Networking Fundamentals
-- Computer & Network Security (learning path)
+- Computer & Network Security
 - Hands-on labs + continuous improvement
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 🎓 Education
+## 🎓 Education Background
 - **Bachelor Degree in Computer Science (Networking and Computer Security)**
 - **Universiti Teknologi Malaysia (UTM), Skudai**
 - **Graduation Year:** 2028
