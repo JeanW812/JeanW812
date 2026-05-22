@@ -18,18 +18,18 @@
 
 ## 🔐 Focus Areas
 - Networking Fundamentals
-- Computer & Network Security
+- Computer & Network Security (learning path)
 - Hands-on labs + continuous improvement
 
 ---
 
 ## 🧰 Skills & Tools
-**Languages:** C++ Java JavaScript HTML mySQL
+**Languages:** C++, Java, JavaScript, HTML, mySQL  
 **Tools:** AutoCAD, Cisco Packet Tracer, Wireshark
 
 ---
 
-## 🎓 Education Background
+## 🎓 Education
 - **Bachelor Degree in Computer Science (Networking and Computer Security)**
 - **Universiti Teknologi Malaysia (UTM), Skudai**
 - **Graduation Year:** 2028
@@ -40,11 +40,19 @@
 - C++ Clinic 2024
 - HCI Day
 
+### 📑 Education Certificates & Results
+
+| Certificate/Degree                               | Institution                                 | Year       | Result/GPA      |
+|--------------------------------------------------|---------------------------------------------|------------|-----------------|
+| Bachelor Degree in Computer Science (Networking and Computer Security) | Universiti Teknologi Malaysia (UTM), Skudai | 2028 (expected) | 3.96  |
+| Sijil Pelajaran Malaysia (SPM)                   | SMJK Chan Wa 2                    | 2022   | 10As  |
+| Sijil Matriculation                    | Kolej Matrikulasi Kejuruteraan Johor            | 2023/2024     | 4.0 |
+
 ---
 
 ## 🧩 Badges
 <!--START_SECTION:badges-->
-[![CCNA: Introduction to Networks](https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/7b8fd827-bbad-4c74-9cd9-aeaa1afe37e2)
+[![CCNA: Introduction to Networks](https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/7b8fd827-bbad-4c74-9cd9-aeaa1afe37e2[...]
 <!--END_SECTION:badges-->
 
 ---
