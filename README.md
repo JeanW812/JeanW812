@@ -52,7 +52,7 @@
 
 ## 🧩 Badges
 <!--START_SECTION:badges-->
-[![CCNA: Introduction to Networks](https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/7b8fd827-bbad-4c74-9cd9-aeaa1afe37e2[...]
+![CCNA: Introduction to Networks](https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
 <!--END_SECTION:badges-->
 
 ---
