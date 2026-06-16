@@ -3,7 +3,7 @@
 <h1 align="center">Jean (Wong Ya Jing)</h1>
 <p align="center">
   <b>Computer Science (Networking & Computer Security) @ UTM Skudai</b><br/>
-  <i>Building skills in networks, security fundamentals, and C++.</i>
+  <i>Building skills in networks and security fundamentals</i>
 </p>
 
 ---
